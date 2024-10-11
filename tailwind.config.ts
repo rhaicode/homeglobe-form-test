@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "vivid-violet": "#7749EF",
+        "electric-violet": "#5C27E5",
+        "light-purple": "#AF72FF",
+        "midnight-slate": "#1F2A37",
+        "cloud-mist": "#F3F4F6",
+        "pale-fog": "#E5E7EB",
       },
     },
   },
